@@ -1,1 +1,5 @@
-# Linkedin-s-search-redesign
+# Linkedin's-search-redesign 
+link figma
+https://www.figma.com/design/O74fWzHe5VeHUbckJR94FN/Linkedin's-Search-Redesign?node-id=0-1&t=g7EbWrEZaKXST6xV-1
+![Linkedin](https://github.com/user-attachments/assets/cf301f60-bf7a-42f9-a3d2-59ff5660d27a)
+
